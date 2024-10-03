@@ -1,3 +1,1 @@
-var = ''' Am I a string 
-this is my second line'''
-print(var)
+print(type(name), type(age), type(marks))
